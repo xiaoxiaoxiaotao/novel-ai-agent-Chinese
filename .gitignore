@@ -1,0 +1,6 @@
+.env
+story_output.json
+__pycache__/
+*.pyc 
+# 输出文件夹
+output/ 
