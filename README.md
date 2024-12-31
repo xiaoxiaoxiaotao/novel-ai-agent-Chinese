@@ -31,7 +31,7 @@
 ### 步骤1: 克隆项目
 
 ```bash
-git clone https://github.com/yourusername/novel_ai_agent.git
+git clone https://github.com/xiaoxiaoxiaotao/novel-ai-agent-Chinese.git
 cd novel_ai_agent
 ```
 
